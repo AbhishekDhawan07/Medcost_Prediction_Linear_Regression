@@ -292,11 +292,10 @@ Built inside the 🏗️ **[Medcost_Prediction_Linear_Regression](https://github
 ```
 🏗️  Medcost_Prediction_Linear_Regression/
 │
-└── 📂  Linear Regression Project - Medical Insurance Cost Prediction/
+└── 📂  Linear Regression Project - Medical Insurance Cost Prediction
     │
-    ├── 📓  Linear_Regression_Project_-_Medical_Insurance_Cost_Prediction
-    │       -checkpoint.ipynb
-    │       └──► 🧠 Main Jupyter Notebook — complete ML pipeline
+    ├── 📓  Linear_Regression_Project-Medical_Insurance_Cost_Prediction.ipynb
+    │     
     │
     ├── 🗃️  insurance.csv
     │       └──► 📦 Dataset — 1,338 patient records · 7 columns
