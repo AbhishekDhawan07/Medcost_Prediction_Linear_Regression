@@ -24,7 +24,7 @@
 <br/>
 
 > ### 🩺 *Predict annual medical insurance charges using patient health & demographic data*
-> #### Linear Regression · Full EDA Pipeline · Real-time Predictive System · Zero Overfitting
+> #### Linear Regression  Full EDA Pipeline  Real-time Predictive System  Zero Overfitting
 
 <br/>
 
@@ -64,7 +64,7 @@
 <tr>
 <td>
 
-**🏥 Medical Insurance Cost Prediction** is an end-to-end Machine Learning project that uses **Linear Regression** to predict the annual medical insurance charges billed to a patient — based on their personal health and demographic attributes.
+**🏥 Medical Insurance Cost Prediction** is an end-to-end Machine Learning project that uses **Linear Regression** to predict the annual medical insurance charges billed to a patient - based on their personal health and demographic attributes.
 
 Built inside the 🏗️ **[Medcost_Prediction_Linear_Regression](https://github.com/Medcost_Prediction_Linear_Regression)** repository, this project walks through the **complete ML lifecycle**:
 
@@ -113,7 +113,7 @@ Built inside the 🏗️ **[Medcost_Prediction_Linear_Regression](https://github
 
 </div>
 
-> 💡 **Insight:** The near-identical R² on train vs test confirms the model **generalizes well** — it's neither overfitting nor underfitting! 🎉
+> 💡 **Insight:** The near-identical R² on train vs test confirms the model **generalizes well** - it's neither overfitting nor underfitting! 🎉
 
 <br/>
 
@@ -125,7 +125,7 @@ Built inside the 🏗️ **[Medcost_Prediction_Linear_Regression](https://github
 
 | 🟢 Layer | 🔵 Technology | 🟡 Role |
 |:---:|:---:|:---|
-| 🤖 **ML Model** | `sklearn.linear_model.LinearRegression` | Core regression — training & prediction |
+| 🤖 **ML Model** | `sklearn.linear_model.LinearRegression` | Core regression - training & prediction |
 | 🐍 **Language** | Python 3.10+ | Runtime environment |
 | 📓 **Notebook** | Jupyter Notebook | Interactive development & EDA |
 | 🗃️ **Data** | Pandas DataFrame | Data loading, cleaning, encoding |
